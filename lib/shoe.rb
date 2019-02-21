@@ -14,5 +14,5 @@ class Shoe
     puts "Your shoe is as good as new!"
 end
 
-Shoe.new("Addias", :condition => "new")
+Shoe.new("Addias")
 end
