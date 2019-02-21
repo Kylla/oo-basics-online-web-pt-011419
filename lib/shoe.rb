@@ -10,3 +10,4 @@ class Shoe
 end
 
 Shoe.new("Addias")
+end
